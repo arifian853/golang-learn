@@ -11,11 +11,11 @@ This repository is designed for:
 
 ## Chapters
 
-> Each chapter contains:
-> - A README explaining the concepts
-> - Code examples
-> - Exercises
-> - A mini project to reinforce learning
+Each chapter contains:
+- A README explaining the concepts
+- Code examples
+- Exercises
+- A mini project to reinforce learning
 
 ### Fundamentals
 - [Chapter 1 - Go Basics](Chapters/Chapter 1 - Go Basics/README.md)
@@ -53,6 +53,7 @@ This repository is designed for:
 1. Download and install Go from: https://golang.org/dl/
 2. Make sure Go is added to your PATH
 3. Verify installation:
+
    ```bash
    go version
    ```
