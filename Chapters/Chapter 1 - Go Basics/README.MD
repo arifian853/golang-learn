@@ -117,5 +117,3 @@ Before moving to the next chapter, make sure you can answer:
 
 Write down anything confusing you encounter.
 Confusion is expected and part of the learning process.
-
-````
